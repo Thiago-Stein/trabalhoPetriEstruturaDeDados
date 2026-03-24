@@ -1,6 +1,5 @@
 public class PilhaDinamica {
     No inicio;
-    No topo;
 
     //Inicialização/construtor da pilha dinâmica
     public PilhaDinamica(){
